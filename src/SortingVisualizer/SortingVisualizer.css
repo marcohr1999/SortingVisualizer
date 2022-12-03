@@ -1,0 +1,22 @@
+.array-container {
+    alignment: center;
+    height: 710px;
+    position: relative;
+}
+.button-container{
+    margin-top: 0.1vh;
+    text-align: center;
+}
+
+.array-bar {
+    outline: solid;
+    width: 18px;
+    display: inline-block;
+    margin: 1px;
+    bottom: 0px;
+}
+.Title {
+    justify-content: left;
+    align-items: baseline;
+    margin-top: .3em;
+}
